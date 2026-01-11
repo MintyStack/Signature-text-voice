@@ -63,6 +63,18 @@ Copy code
 
 ---
 
+## 🧩 Environment Setup (VS Code)
+
+Before running this program, the Python environment must be properly set up in Visual Studio Code (VS Code).
+
+- Install Python and configure it in VS Code  
+- Select the correct Python interpreter  
+- Install the required libraries: OpenCV, MediaPipe, and pyttsx3  
+
+After completing the environment setup, the program can be executed successfully.  
+When the program runs, the webcam opens automatically, detects hand gestures in real time, and converts the detected sign language into voice output.
+
+
 ## ▶️ How to Run
 
 python sign_language_to_voice.py
